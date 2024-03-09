@@ -1,0 +1,5 @@
+# Instructions 
+# 1.Pro zadaná přirozená čísla a, b a c.Rozhodněte, zda platí a2+b2 = c2.
+# 2.Jsou dány tři celá čísla a, b a c. Rozhodněte, zda a náleží do otevřeného intervalu (b, c).
+# 3.Jsou zadány tři délky (nezáporná čísla). Rozhodněte, zda je možné sestrojit trojúhelník, jehož strany budou mít zadané délky.
+# Povoleno je použít jen ty příkazy z Pythonu, které byly dosud představeny.
