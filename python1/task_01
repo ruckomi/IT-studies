@@ -1,0 +1,6 @@
+a = int(input("Prirozene cislo a je: "))
+b = int(input("Prirozene cislo b je: "))
+c = int(input("Prirozene cislo c je: "))
+
+pythag = ((a**2) + (b**2) == (c**2))
+print(f"Plati a2 + b2 = c2? {pythag}")
